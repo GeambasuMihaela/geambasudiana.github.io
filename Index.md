@@ -8,12 +8,12 @@ Fișierele accesate prin link-uri pot fi:
 
 De asemenea, prin aceste link-uri se pot accesa si secțiuni din pagina curenta sau secțiuni de la alte pagini ale aceluiași site.
 
-###Sinteza unui link Markdown
+##Sinteza unui link Markdown
 
 Tipuri de linkuri in Markdown
 1.Linkuri clasice (normale)
 Linkuri preferențiale 
 
-###linkuri clasice 
+##linkuri clasice 
 
 [textul linkului
