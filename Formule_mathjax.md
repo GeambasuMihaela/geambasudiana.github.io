@@ -1,4 +1,4 @@
-script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+Mlscript id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 [homepage](index.md)
 ![text descriptiv imagine](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDC20iEn99ny79tjI2L7ufMCw6r8BnY7jXKJPanFwqYmUhr49C-4sn8q7uhMp_67PW1OBSaNsNEA7ZSZidpe4yUTeO3w51uqqqIT6CTtkYqiXquSR50rLu2vjtn_GQIXWkeoGFTdLJ1Q/s1600/poze_catei_1.jpg)
@@ -87,5 +87,5 @@ $$ \sum_{i=o}^n i^2 = \frac{(a+b)\times (b+c)}{6} $$
 
 $$ \int_0^1 x^4 dx $$
 pt integrala dubla ii
-pt integrala tripla iii
+pt integrala tripla iii 
 
