@@ -16,4 +16,7 @@ Linkuri preferențiale
 
 ##linkuri clasice 
 
-[textul linkului
+[f
+ormule cu mathjax](formule_mathjax.md)
+
+
