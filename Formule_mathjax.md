@@ -86,6 +86,15 @@ $$ \sum_{i=o}^n i^2 = \frac{(a+b)\times (b+c)}{6} $$
 **Exemplu:**
 
 $$ \int_0^1 x^4 dx $$
-pt integrala dubla ii
-pt integrala tripla iii 
+$$ \iint dubla $$
+$$ \iiint tripla $$ 
+
+
+
+
+
+
+
+
+
 
