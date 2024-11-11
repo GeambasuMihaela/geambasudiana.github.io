@@ -1,0 +1,50 @@
+[Homeppage](index.md)
+
+# Elemente de Markdown - P2
+
+## Inserarea codului de programare in Markdown si HTML
+
+### Cod `in linie`
+
+<code> a=b**c </code>
+
+**HTML: **
+
+<pre>
+import panda as pd
+import numpy as np 
+
+a=2
+b=3
+</pre>
+
+## Inserarea elementelor evidențiate (blockquote)
+>Acesta este un text evidentiat.
+Acesta este un text ne-evidentiat.
+
+**HTML:**
+<quote>
+Acesta est un text evidentiat
+</blockquote>
+
+## Avantajele HTML fata de Markdown (exemple)
+
+**Markdown**
+![Total station](images/mp.jpg)
+
+**HTML:**
+<img src=images/mp.jpg
+width="200px" border=10px>
+
+***(sau măi multe)
+
+<hr size=2em>
+
+<p>Acesta este un paragraf</p>
+
+## Echivalentul unui link in HTML
+[Textul linkului](https://google.com)
+
+<a href="https://google.com alt="Textul linkului">
+
+
